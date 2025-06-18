@@ -50,6 +50,7 @@
 
 
 <p align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=TejaNaik15&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TejaNaik15&theme=tokyonight&hide_border=true" width="47%" />
 </p>
