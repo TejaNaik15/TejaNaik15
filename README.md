@@ -19,7 +19,7 @@ I am  a passionate Full Stack Developer and computer science student <img src="h
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,redux,sass,nodejs,js,nextjs,tailwind,ts,express,bootstrap,c,cpp,git,mongodb,vite,expressjs,figma,github,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,redux,sass,nodejs,js,nextjs,tailwind,ts,express,bootstrap,c,cpp,git,mongodb,vite,socketio,figma,github,tailwind)](https://skillicons.dev)
 
 
 
