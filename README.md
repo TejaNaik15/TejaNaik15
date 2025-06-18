@@ -1,3 +1,6 @@
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
+
+</h2>
 
 
 <h1>
@@ -7,7 +10,7 @@
 
 ---
 
-### : About Me :
+### About Me :
 
 I am  a passionate Full Stack Developer and computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
@@ -33,6 +36,13 @@ I am  a passionate Full Stack Developer and computer science student <img src="h
 <a title="tinkuteja740@gmail.com" href="mailto:tinkuteja740@gmail.com" target="_blank"><img height="44" alt="Gmail" src="Gmail.png"></a>
 <a title="https://www.instagram.com/eren_yeager9_" href="https://www.instagram.com/eren_yeager9_" target="_blank"><img height="44" alt="Instagram" src="Instagram.png"></a>
 <a title="" href="" target="_blank"><img height="44" alt="Twitter" src="Twitter.png"></a>
+
+
+
+
+
+
+
 
 
 
