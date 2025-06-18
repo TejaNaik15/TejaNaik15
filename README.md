@@ -58,9 +58,22 @@ I am  a passionate Full Stack Developer and computer science student <img src="h
 
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+TEJA+NaiK.;I'm+a+full-stack+developer." alt="typing intro">
-</p>
+# Hey there, I'm Teja 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FEEF&width=435&lines=Full+Stack+Developer;AI+Enthusiast+%7C+GenAI+Builder;Always+Learning+%E2%9C%A8" />
+
+### 🧑‍💻 About Me:
+- 🌱 Learning Full Stack + GenAI Development
+- 💡 Exploring Open Source + Building AI-Powered Apps
+- 🛠️ JavaScript | React | Node.js | Express | MongoDB | Groq | LLMs
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+### 🐍 Contribution Snake:
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 
 
