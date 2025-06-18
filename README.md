@@ -59,9 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/TejaNaik15/TejaNaik15/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f6ff&height=120&section=footer" /> </p>
 
