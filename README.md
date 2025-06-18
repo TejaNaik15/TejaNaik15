@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=itskrish01&color=green)
+
 
 <h1>
   HEY THERE:)
