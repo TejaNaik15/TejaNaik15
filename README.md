@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=itskrish01&color=green)
 
 <h1>
-  hey there
+  HEY THERE:)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -9,17 +9,17 @@
 
 ### : About Me :
 
-I am a Software and Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am  a passionate Full Stack Developer and computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Developer and contributing to frontend for building web applications.
+- :telescope: I love building modern, scalable web applications from scratch—both frontend and backend..
 
-- :zap: In my free time, I do challenges from frontendmentor.io and solve coding problems.
+- :zap: Currently exploring MERN stack and AI integration, and always eager to learn and innovate.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,redux,sass,nodejs,js,nextjs,tailwind,ts,express,bootstrap,c,cpp,git,mongodb,vite,expressjs,figma,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,redux,sass,nodejs,js,nextjs,tailwind,ts,express,bootstrap,c,cpp,git,mongodb,vite,expressjs,figma,github,tailwind)](https://skillicons.dev)
 
 
 
