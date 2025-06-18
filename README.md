@@ -235,3 +235,135 @@ I am  a passionate Full Stack Developer and computer science student <img src="h
 🌐 Interests:   Web + AI Fusion, Fast APIs, UI/UX magic ✨
 📬 Contact:     your.email@example.com
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import { motion } from "framer-motion";
+import Head from "next/head";
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Github, Linkedin, Mail } from "lucide-react";
+
+export default function Home() {
+  return (
+    <>
+      <Head>
+        <title>Teja | Full Stack & AI Dev</title>
+      </Head>
+
+      <main className="min-h-screen bg-gradient-to-b from-[#000428] to-[#004e92] text-white flex flex-col items-center justify-center px-4 py-10">
+        {/* Hero Section */}
+        <motion.h1
+          className="text-4xl md:text-6xl font-bold text-center"
+          initial={{ opacity: 0, y: -20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 1 }}
+        >
+          Hey 👋, I'm Teja
+        </motion.h1>
+
+        <motion.p
+          className="mt-4 text-xl md:text-2xl text-center max-w-2xl"
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 0.5, duration: 1 }}
+        >
+          Full Stack Developer | GenAI Engineer | LLM Builder
+        </motion.p>
+
+        {/* Tech Stack Badges */}
+        <motion.div
+          className="flex flex-wrap justify-center gap-4 mt-6"
+          initial="hidden"
+          animate="visible"
+          variants={{
+            hidden: {},
+            visible: {
+              transition: {
+                staggerChildren: 0.1
+              }
+            }
+          }}
+        >
+          {["JavaScript", "React", "Next.js", "Node.js", "MongoDB", "Groq", "OpenAI", "Tailwind"].map((tech) => (
+            <motion.span
+              key={tech}
+              className="bg-white text-black px-4 py-2 rounded-full text-sm font-semibold shadow-lg"
+              whileHover={{ scale: 1.1 }}
+              whileTap={{ scale: 0.95 }}
+              initial={{ opacity: 0, scale: 0 }}
+              animate={{ opacity: 1, scale: 1 }}
+            >
+              {tech}
+            </motion.span>
+          ))}
+        </motion.div>
+
+        {/* AI Projects Section */}
+        <section className="mt-16 w-full max-w-5xl">
+          <motion.h2
+            className="text-3xl font-bold text-center mb-8"
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            transition={{ duration: 1 }}
+          >
+            🔥 Featured AI Projects
+          </motion.h2>
+
+          <div className="grid gap-6 md:grid-cols-2">
+            {[1, 2, 3].map((id) => (
+              <motion.div
+                key={id}
+                whileHover={{ scale: 1.03 }}
+                whileTap={{ scale: 0.98 }}
+              >
+                <Card className="bg-white text-black">
+                  <CardContent className="p-6">
+                    <h3 className="text-xl font-semibold mb-2">AI Project #{id}</h3>
+                    <p className="text-sm text-gray-700">
+                      A smart tool that uses LLMs to automate tasks, process user inputs, or generate content.
+                    </p>
+                  </CardContent>
+                </Card>
+              </motion.div>
+            ))}
+          </div>
+        </section>
+
+        {/* Contact Section */}
+        <section className="mt-16 text-center">
+          <h2 className="text-2xl font-semibold mb-4">🌐 Connect with Me</h2>
+          <div className="flex justify-center gap-6">
+            <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">
+              <Button variant="outline" className="flex items-center gap-2">
+                <Mail size={18} /> Email
+              </Button>
+            </a>
+            <a href="https://github.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer">
+              <Button variant="outline" className="flex items-center gap-2">
+                <Github size={18} /> GitHub
+              </Button>
+            </a>
+            <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" rel="noopener noreferrer">
+              <Button variant="outline" className="flex items-center gap-2">
+                <Linkedin size={18} /> LinkedIn
+              </Button>
+            </a>
+          </div>
+        </section>
+      </main>
+    </>
+  );
+}
