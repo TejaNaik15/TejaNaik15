@@ -1,6 +1,6 @@
 
 <!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#00f6ff;">Teja</span></h1>
+<h1 align="center">HEY THERE:) 👋, I'M<span style="color:#00f6ff;">TEJA NAIK</span></h1>
 
 <!-- Typing Animation -->
 <p align="center">
