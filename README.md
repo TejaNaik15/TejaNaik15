@@ -27,12 +27,10 @@ I am a Software and Frontend Developer <img src="https://media.giphy.com/media/W
 
 
 
-<a title="rahuljangirwork.com" href="https://rahuljangir.work/" target="_blank"><img height="44" alt="" src="assets/social-icons/Portpolio.png"></a>
-<a title="Linkdin/in/rahuljangirwork/" href="https://in.linkedin.com/in/rahuljangirwork" target="_blank"><img height="44" alt="Linkdin"  src="assets/social-icons/Linkdin.png"></a> 
-<a title="tinkuteja740@gmail.com" href="mailto:tinkuteja740@gmail.com" target="_blank"><img height="44" alt="Gmail" src="assets/social-icons/Gmail.png"></a>
-<a title="https://www.instagram.com/eren_yeager9_" href="https://www.instagram.com/eren_yeager9_" target="_blank"><img height="44" alt="Instagram" src="assets//social-icons/Instagram.png"></a>
-<a title="x.com/rahuljangirwork/" href="https://x.com/rahuljangirwork" target="_blank"><img height="44" alt="Twitter" src="assets/social-icons/Twitter.png"></a>
 
-<a href="https://rahuljangir.work/" target="_blank" align="left"><img align="left" height="20" alt="skills" src="assets/headings/skills.png"></a>
-<br>
+<a title="Linkdin/in/rahuljangirwork/" href="https://in.linkedin.com/in/rahuljangirwork" target="_blank"><img height="44" alt="Linkdin"  src="Linkdin.png"></a> 
+<a title="tinkuteja740@gmail.com" href="mailto:tinkuteja740@gmail.com" target="_blank"><img height="44" alt="Gmail" src="Gmail.png"></a>
+<a title="https://www.instagram.com/eren_yeager9_" href="https://www.instagram.com/eren_yeager9_" target="_blank"><img height="44" alt="Instagram" src="Instagram.png"></a>
+<a title="x.com/rahuljangirwork/" href="https://x.com/rahuljangirwork" target="_blank"><img height="44" alt="Twitter" src="Twitter.png"></a>
+
 
