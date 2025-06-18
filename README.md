@@ -19,7 +19,7 @@
 - 🧑‍💻 Full Stack Developer + GenAI Explorer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 Learning to **build with LLMs**, **Groq APIs**, and **Next.js**  
 - 🧪 Experimenting with AI tools, GenAI UI, Prompt Engineering
--  📫 Reach me: `your.email@example.com`  
+-  📫 Reach me: `tinkuteja740@gmail.com`  
 - ⚡ Fun fact: I can make apps talk to each other like magic 🪄
 
 ---
