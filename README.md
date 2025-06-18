@@ -58,27 +58,57 @@ I am  a passionate Full Stack Developer and computer science student <img src="h
 
 
 
-# Hey there, I'm Teja 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FEEF&width=435&lines=Full+Stack+Developer;AI+Enthusiast+%7C+GenAI+Builder;Always+Learning+%E2%9C%A8" />
-
-### 🧑‍💻 About Me:
-- 🌱 Learning Full Stack + GenAI Development
-- 💡 Exploring Open Source + Building AI-Powered Apps
-- 🛠️ JavaScript | React | Node.js | Express | MongoDB | Groq | LLMs
-
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-### 🐍 Contribution Snake:
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 
 
 
+<h1 align="center">Hi 👋, I'm Teja</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FEEF&width=435&lines=Full+Stack+Developer;GenAI+Engineer+%7C+AI+Explorer;Building+Web+%2B+AI+Projects;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
+---
+
+## 👨‍💻 About Me
+- 🎓 I'm a passionate **Full Stack Developer** and **Student**
+- 🧠 Currently learning **AI, LLMs, Prompt Engineering, and Full Stack AI apps**
+- 🚀 Working on cool projects using **MERN + Groq + GenAI**
+- ✨ I love building tools that combine AI with real-world apps
+
+---
+
+## 🧰 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,html,css,tailwind,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Teja's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="Teja's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Teja's Top Languages" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/TejaNaik15/TejaNaik15/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:tinkuteja74@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+</p>
 
 
