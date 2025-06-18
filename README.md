@@ -191,3 +191,47 @@ I am  a passionate Full Stack Developer and computer science student <img src="h
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f6ff,100:1200ff&height=120&section=footer" />
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ✨ Animated Name Banner -->
+<h1 align="center">
+  Hey 👋, I'm <span style="color:#00f6ff;">Teja</span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=480&height=40&lines=Full+Stack+Developer+💻;GenAI+Engineer+🤖;LLM+Builder+%7C+Prompt+Engineer+🧠;Lifelong+Learner+🚀" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f6ff,100:1200ff&height=120&section=header&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=30&fontAlignY=35" />
+</p>
+
+---
+
+## 💡 About Me
+
+```yaml
+💼 Role:        Full Stack Developer | AI Engineer
+🎓 Learning:    LLMs, Groq, GenAI UIs, Next.js, MongoDB
+🔭 Projects:    AI-powered apps, productivity tools, custom chatbots
+🌐 Interests:   Web + AI Fusion, Fast APIs, UI/UX magic ✨
+📬 Contact:     your.email@example.com
+
