@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f6ff&height=100&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&fontColor=ffffff"/>
+</p>
 
 <!-- Profile Header -->
 <h1 align="center">HEY THERE:) 👋, I'M<span style="color:#00f6ff;">TEJA NAIK</span></h1>
