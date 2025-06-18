@@ -3,6 +3,13 @@
 </h2>
 
 
+<div align="right">
+<img src="https://media.giphy.com/media/l0Iyoy5VglR6QKJiw/giphy.gif" width="100%" height="100%" style="position:absolute" />
+</div>  
+  
+
+
+
 <h1>
   HEY THERE:)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -43,6 +50,13 @@ I am  a passionate Full Stack Developer and computer science student <img src="h
 
 
 
+
+
+
+<div align="right">
+<img src="https://media.giphy.com/media/l0Iyoy5VglR6QKJiw/giphy.gif" width="100%" height="100%" style="position:absolute" />
+</div>  
+  
 
 
 
