@@ -6,29 +6,28 @@
 </h2>
 
 
-<div align="right">
-<img src="https://media.giphy.com/media/l0Iyoy5VglR6QKJiw/giphy.gif" width="100%" height="100%" style="position:absolute" />
-</div>  
-  
+<!-- Profile Header -->
+<h1 align="center">Hey there 👋, I'm <span style="color:#00f6ff;">Teja</span></h1>
 
-
-
-<h1>
-  HEY THERE:)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=🚀+Full+Stack+Developer;🤖+GenAI+Engineer+%7C+LLM+Builder;🎓+Student+%7C+Lifelong+Learner;🔥+Building+AI-Powered+Apps" alt="Typing Intro" />
+</p>
 
 ---
 
-### About Me :
-
-I am  a passionate Full Stack Developer and computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- :telescope: I love building modern, scalable web applications from scratch—both frontend and backend..
-
-- :zap: Currently exploring MERN stack and AI integration, and always eager to learn and innovate.
+## 💡 About Me
+- 🧑‍💻 Full Stack Developer + GenAI Explorer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 Learning to **build with LLMs**, **Groq APIs**, and **Next.js**  
+- 🧪 Experimenting with AI tools, GenAI UI, Prompt Engineering
+-  📫 Reach me: `your.email@example.com`  
+- ⚡ Fun fact: I can make apps talk to each other like magic 🪄
 
 ---
+
+---
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
