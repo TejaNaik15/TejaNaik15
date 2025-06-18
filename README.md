@@ -48,9 +48,6 @@
 <a title="https://www.instagram.com/eren_yeager9_" href="https://www.instagram.com/eren_yeager9_" target="_blank"><img height="44" alt="Instagram" src="Instagram.png"></a>
 <a title="" href="" target="_blank"><img height="44" alt="Twitter" src="Twitter.png"></a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f6ff,100:1200ff&height=120&section=footer" />
-</p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f6ff&height=120&section=footer" /> </p>
 
