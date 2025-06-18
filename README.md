@@ -34,3 +34,35 @@ I am a Software and Frontend Developer <img src="https://media.giphy.com/media/W
 <a title="x.com/rahuljangirwork/" href="https://x.com/rahuljangirwork" target="_blank"><img height="44" alt="Twitter" src="Twitter.png"></a>
 
 
+
+
+
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rahuljangirwork&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/rahuljangirwork)
+
+<a href="https://rahuljangir.work/" target="_blank" align="left"><img align="left" height="20" alt="about-me" src="assets/headings/about-me.png"></a>
+<br>
+
+
+I'm an all-in-one developer who loves building complete, high-performance systems — from frontend interfaces to backend infrastructure and everything in between.
+
+- 🧩 **Frontend**: Experienced with modern UI frameworks like **Angular** and **Next.js**, crafting clean, responsive, and dynamic web apps.  
+- 🗄️ **Backend**: Skilled in databases like **PostgreSQL**, **SQL Server**, and **Supabase**, building secure and scalable APIs.  
+- 🐧 **Linux Tweaker**: I modify and optimize **Linux** environments for extreme productivity, using **DWM** and **Suckless tools** for a minimal, keyboard-driven workflow.  
+
+Always exploring tools that boost performance, reduce bloat, and give full control to the developer.
+
+
+<br>
+
+
+<a href="https://rahuljangir.work/" target="_blank" align="left"><img align="left" height="20" alt="socials" src="assets/headings/socials.png"></a>
+<br>
+
+<a title="rahuljangirwork.com" href="https://rahuljangir.work/" target="_blank"><img height="44" alt="rahuljangirwork" src="assets/social-icons/Portpolio.png"></a>
+<a title="Linkdin/in/rahuljangirwork/" href="https://in.linkedin.com/in/rahuljangirwork" target="_blank"><img height="44" alt="Linkdin"  src="assets/social-icons/Linkdin.png"></a> 
+<a title="rahuljangirwork@gmail.com" href="mailto:rahuljangirwork@gmail.com" target="_blank"><img height="44" alt="Gmail" src="assets/social-icons/Gmail.png"></a>
+<a title="Instagram/rahuljangir.works/" href="https://www.instagram.com/rahuljangir.works/" target="_blank"><img height="44" alt="Instagram" src="assets//social-icons/Instagram.png"></a>
+<a title="x.com/rahuljangirwork/" href="https://x.com/rahuljangirwork" target="_blank"><img height="44" alt="Twitter" src="assets/social-icons/Twitter.png"></a>
+
