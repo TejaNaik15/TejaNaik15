@@ -28,77 +28,6 @@
 ---
 
 ---
-
-
-
-### :hammer_and_wrench: Languages and Tools :
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,nextjs,tailwind,ts,express,bootstrap,c,python,git,mongodb,vite,figma,github,vercel,netlify)](https://skillicons.dev)
-
-
-## 🌐 Socials :
-
-
-<table align="" class="table table-dark">
-  <tr bg-dark>
-    <td align="center" widht=90>
-        <a href="https://www.instagram.com/eren_yeager9_" target="_blank">
-            <img src="https://skillicons.dev/icons?i=linkedin" />
-        </a>
-      <br>Linkedin
-    </td>
-    <td align="center" widht=90>
-        <a href="https://www.instagram.com/eren_yeager9_" target="_blank">
-            <img src="https://skillicons.dev/icons?i=twitter" />
-        </a>
-        <br>Twitter
-    </td>
-   <td align="center" widht=90>
-        <a href="mailto:tinkuteja740.com" target="_blank">
-            <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-        </a>
-        <br>Gmail
-    </td>
-   <td align="center" widht=90>
-        <a href="https://www.instagram.com/eren_yeager9_" target="_blank">
-            <img src="https://github.com/user-attachments/assets/179b4b64-aa51-425b-81bc-4ab102cc4494" width="50">
-        </a>
-        <br>Kaggle
-   </td>
-    <td align="center" widht=90>
-        <a href="https://tejanaik15.github.io/personal-portfolio/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-        </a>
-        <br>Portfolio
-    </td>
-
-  </tr>
-</table>
-
-
-<p align="center">
-  
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TejaNaik15&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-
-
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f6ff&height=120&section=footer" /> </p>
-
-
-
-
-
-
-
-
-
-
 <h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology </h1>
 
 <table align="center" class="table table-dark">
@@ -179,3 +108,71 @@
     </td>
   </tr>
 </table>
+
+
+
+
+
+## 🌐 Socials :
+
+
+<table align="" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" widht=90>
+        <a href="https://www.instagram.com/eren_yeager9_" target="_blank">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+      <br>Linkedin
+    </td>
+    <td align="center" widht=90>
+        <a href="https://www.instagram.com/eren_yeager9_" target="_blank">
+            <img src="https://skillicons.dev/icons?i=twitter" />
+        </a>
+        <br>Twitter
+    </td>
+   <td align="center" widht=90>
+        <a href="mailto:tinkuteja740.com" target="_blank">
+            <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+        </a>
+        <br>Gmail
+    </td>
+   <td align="center" widht=90>
+        <a href="https://www.instagram.com/eren_yeager9_" target="_blank">
+            <img src="https://github.com/user-attachments/assets/179b4b64-aa51-425b-81bc-4ab102cc4494" width="50">
+        </a>
+        <br>Kaggle
+   </td>
+    <td align="center" widht=90>
+        <a href="https://tejanaik15.github.io/personal-portfolio/" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+        </a>
+        <br>Portfolio
+    </td>
+
+  </tr>
+</table>
+
+
+<p align="center">
+  
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TejaNaik15&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f6ff&height=120&section=footer" /> </p>
+
+
+
+
+
+
+
+
+
+
