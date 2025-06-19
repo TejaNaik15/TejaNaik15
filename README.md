@@ -73,6 +73,18 @@
 
 
 
+### My Social Media Accounts
+
+[<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
+
+
+[<img src='https://skillicons.dev/icons?i=instagram' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
+
+
+[<img src='https://skillicons.dev/icons?i=x' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
+
+
+[<img src='https://skillicons.dev/icons?i=whatsapp' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
 
 
 
