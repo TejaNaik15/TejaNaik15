@@ -39,8 +39,41 @@
 ## 🌐 Socials :
 
 
-[<img src='https://skillicons.dev/icons?i=linkedin,instagram,twitter,gmail' alt='linkedin' height='40'>](https://www.instagram.com/eren_yeager9_,https://www.instagram.com/eren_yeager9_,https://www.instagram.com/eren_yeager9_,https://www.instagram.com/eren_yeager9_)
+<table align="" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" widht=90>
+        <a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+      <br>Linkedin
+    </td>
+    <td align="center" widht=90>
+        <a href="https://twitter.com/Vaibhav_k__" target="_blank">
+            <img src="https://skillicons.dev/icons?i=twitter" />
+        </a>
+        <br>Twitter
+    </td>
+   <td align="center" widht=90>
+        <a href="mailto:vaibhavkesarwani100.com" target="_blank">
+            <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+        </a>
+        <br>Gmail
+    </td>
+   <td align="center" widht=90>
+        <a href="https://www.kaggle.com/vaibhavk22" target="_blank">
+            <img src="https://github.com/user-attachments/assets/179b4b64-aa51-425b-81bc-4ab102cc4494" width="50">
+        </a>
+        <br>Kaggle
+   </td>
+    <td align="center" widht=90>
+        <a href="https://vaibhavkesarwani.vercel.app/" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+        </a>
+        <br>Portfolio
+    </td>
 
+  </tr>
+</table>
 
 
 <p align="center">
@@ -56,19 +89,6 @@
 
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f6ff&height=120&section=footer" /> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
