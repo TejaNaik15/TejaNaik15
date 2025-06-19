@@ -25,7 +25,7 @@
 -  📫 Reach me: `tinkuteja740@gmail.com`  
 - ✨ I love building tools that combine AI with real-world apps
 
----
+
 
 ---
 <h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology </h1>
@@ -153,15 +153,7 @@
 </table>
 
 
-<p align="center">
-  
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TejaNaik15&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
 
 
 
