@@ -36,8 +36,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,nextjs,tailwind,ts,express,bootstrap,c,python,git,mongodb,vite,figma,github,vercel,netlify)](https://skillicons.dev)
 
 
-
-
+## Socials :
 
 <a href="https://tejanaik15.github.io/personal-portfolio/" target="_blank" align="left"><img align="left" height="20" alt="socials" src="socials.png"></a>
 <br>
