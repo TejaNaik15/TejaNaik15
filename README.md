@@ -39,7 +39,7 @@
 ## 🌐 Socials :
 
 
-[<img src='https://skillicons.dev/icons?i=linkedin,instagram,twitter,gmail' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz,https://www.linkedin.com/in/furkancengizz,https://www.linkedin.com/in/furkancengizz,https://www.linkedin.com/in/furkancengizz)
+[<img src='https://skillicons.dev/icons?i=linkedin,instagram,twitter,gmail' alt='linkedin' height='40'>](https://www.instagram.com/eren_yeager9_,https://www.instagram.com/eren_yeager9_,https://www.instagram.com/eren_yeager9_,https://www.instagram.com/eren_yeager9_)
 
 
 
