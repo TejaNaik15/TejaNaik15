@@ -42,25 +42,25 @@
 <table align="" class="table table-dark">
   <tr bg-dark>
     <td align="center" widht=90>
-        <a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/" target="_blank">
+        <a href="https://www.instagram.com/eren_yeager9_" target="_blank">
             <img src="https://skillicons.dev/icons?i=linkedin" />
         </a>
       <br>Linkedin
     </td>
     <td align="center" widht=90>
-        <a href="https://twitter.com/Vaibhav_k__" target="_blank">
+        <a href="https://www.instagram.com/eren_yeager9_" target="_blank">
             <img src="https://skillicons.dev/icons?i=twitter" />
         </a>
         <br>Twitter
     </td>
    <td align="center" widht=90>
-        <a href="mailto:vaibhavkesarwani100.com" target="_blank">
+        <a href="mailto:tinkuteja740.com" target="_blank">
             <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
         </a>
         <br>Gmail
     </td>
    <td align="center" widht=90>
-        <a href="https://www.kaggle.com/vaibhavk22" target="_blank">
+        <a href="https://www.instagram.com/eren_yeager9_" target="_blank">
             <img src="https://github.com/user-attachments/assets/179b4b64-aa51-425b-81bc-4ab102cc4494" width="50">
         </a>
         <br>Kaggle
