@@ -39,11 +39,8 @@
 ## 🌐 Socials :
 
 
+[<img src='https://skillicons.dev/icons?i=linkedin,instagram,twitter,gmail' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz,https://www.linkedin.com/in/furkancengizz,https://www.linkedin.com/in/furkancengizz,https://www.linkedin.com/in/furkancengizz)
 
-<a title="" href="" target="_blank"><img height="44" alt="Linkdin"  src="linkdin.png"></a> 
-<a title="tinkuteja740@gmail.com" href="mailto:tinkuteja740@gmail.com" target="_blank"><img height="44" alt="Gmail" src="Gmail.png"></a>
-<a title="https://www.instagram.com/eren_yeager9_" href="https://www.instagram.com/eren_yeager9_" target="_blank"><img height="44" alt="Instagram" src="Instagram.png"></a>
-<a title="" href="" target="_blank"><img height="44" alt="Twitter" src="Twitter.png"></a>
 
 
 <p align="center">
@@ -73,18 +70,6 @@
 
 
 
-### My Social Media Accounts
-
-[<img src='https://skillicons.dev/icons?i=linkedin,instagram,twitter,gmail' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
-
-
-[<img src='https://skillicons.dev/icons?i=instagram' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
-
-
-[<img src='https://skillicons.dev/icons?i=twitter' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
-
-
-[<img src='https://skillicons.dev/icons?i=gmail' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
 
 
 
