@@ -3,7 +3,7 @@
 </p>
 
 <!-- Profile Header -->
-<h1 align="center">HEY THERE:) 👋, I'M<span style="color:#00f6ff;">TEJA NAIK</span></h1>
+<h1 align="center">HEY THERE:) 👋, I'M<span style="color:#00f6ff;"> TEJA NAIK</span></h1>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -38,8 +38,6 @@
 
 ## Socials :
 
-<a href="https://tejanaik15.github.io/personal-portfolio/" target="_blank" align="left"><img align="left" height="20" alt="socials" src="socials.png"></a>
-<br>
 
 
 <a title="" href="" target="_blank"><img height="44" alt="Linkdin"  src="linkdin.png"></a> 
