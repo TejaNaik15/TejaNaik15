@@ -81,10 +81,10 @@
 [<img src='https://skillicons.dev/icons?i=instagram' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
 
 
-[<img src='https://skillicons.dev/icons?i=x' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
+[<img src='https://skillicons.dev/icons?i=twitter' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
 
 
-[<img src='https://skillicons.dev/icons?i=whatsapp' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
+[<img src='https://skillicons.dev/icons?i=gmail' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkancengizz)
 
 
 
