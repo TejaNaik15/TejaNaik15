@@ -152,6 +152,13 @@
 </table>
 
 ---
+## 🎧 I am vibing to ...
+<div align="center">
+  
+  <img src ="https://spotify-recently-played-readme.vercel.app/api?user=yiaf2fzhgezc1sc5384i1u364&count=2"/>
+</div>
+<br>
+
 
 
 
