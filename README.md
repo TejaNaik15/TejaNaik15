@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f6ff&height=100&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&fontColor=ffffff"/>
-</p>
 
 
 <h1 align="center">Hi there, I'm <a href="https://tejanaik15.github.io/personal-portfolio/">Teja Naik</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
