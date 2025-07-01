@@ -63,10 +63,7 @@
       <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
       <br>Express
     </td>
-   <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
-      <br>MySQL
-    </td>
+  
   </tr>
   <tr>
      <td align="center" widht=90>
@@ -101,10 +98,7 @@
       <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="linux" />
       <br>Vite
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redux" width="55" height="55" alt="md" />
-      <br>Redux
-    </td>
+   
   </tr>
 </table>
 
