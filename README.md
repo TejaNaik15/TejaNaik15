@@ -102,6 +102,9 @@
   </tr>
 </table>
 
+
+---
+
 <h1>
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">
   Let's Connect!
