@@ -113,7 +113,7 @@
 <table align="" class="table table-dark">
   <tr bg-dark>
     <td align="center" widht=90>
-        <a href="https://www.instagram.com/eren_yeager9_" target="_blank">
+        <a href="https://www.linkedin.com/in/teja-naik-0b3021282" target="_blank">
             <img src="https://skillicons.dev/icons?i=linkedin" />
         </a>
       <br>Linkedin
