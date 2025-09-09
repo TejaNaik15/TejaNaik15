@@ -124,7 +124,7 @@
       <br>Vercel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="linux" />
+      <img src="https://reactrouter.com/img/logos/react-router.svg" width="55" height="55" alt="linux" />
       <br>Vite
     </td>
    
