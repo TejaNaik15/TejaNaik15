@@ -27,82 +27,123 @@
 
 
 ---
-<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology </h1>
-
-<table align="center" class="table table-dark">
-  <tr bg-dark>
-   <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
-      <br>HTML
-    </td>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
-      <br>CSS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
-      <br>Javascript
-    </td>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
-      <br>React Js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
-      <br>Next Js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="55" height="55" alt="icon" />
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
-      <br>Node Js
-    </td>
-   <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
-      <br>Express
-    </td>
-  
-  </tr>
-  <tr>
-     <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
-      <br>C
-     </td>
-     <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=py" alt="icon" width="55" height="55" />
-      <br>Python
-     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
-      <br>Mongodb
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
-      <br>Git
-    </td>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
-      <br>Github
-    </td>
-    <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="55" height="55" />
-      <br>Vercel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="linux" />
-      <br>Vite
-    </td>
-   
-  </tr>
-</table>
-
-
+<h2 align="center">Languages and Tools:</h2>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <a href="#html5">
+          <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <a href="#css3">
+          <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <a href="#javascript">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="#typescript">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <a href="#react">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="#tailwind-css">
+          <img src="https://techstack-generator.vercel.app/tailwind-css-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" width="96">
+        <a href="#node-js">
+          <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <a href="#express">
+          <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Express
+      </td>
+      <td align="center" width="96">
+        <a href="#mongodb">
+          <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#nextjs">
+          <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+        <a href="#bootstrap">
+          <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+        <a href="#mysql">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <a href="#python">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="#c">
+          <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <a href="#git">
+          <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <a href="#github">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <a href="#firebase">
+          <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Firebase
+      </td>
+      <td align="center" width="96">
+        <a href="#react-router">
+          <img src="https://techstack-generator.vercel.app/react-router-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>React Router
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 <h1>
