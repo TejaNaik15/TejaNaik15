@@ -120,7 +120,7 @@
       <br>Github
     </td>
     <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="55" height="55" />
       <br>Vercel
     </td>
     <td align="center" width="90">
