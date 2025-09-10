@@ -12,8 +12,8 @@
 <h1 align="center">Hey, I'm <a href="https://tejanaik15.github.io/personal-portfolio/">Teja</a></h1
 ## 🚀 About Me
 
-- 💻 Passionate Full Stack Developer skilled in building modern web applications using **React.js**, **Node.js**, **Express**, **MongoDB**, and **Next.js** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 🎯 Focused on writing clean, efficient, and scalable code while implementing best practices in **TypeScript**, **Tailwind CSS**, and **Bootstrap**  
+- 💻 Passionate Full Stack Developer skilled in building modern web applications using **React.js**, **Node.js**, **Express**, **MongoDB** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🎯 Focused on writing clean, efficient, and scalable code while implementing best practices in **TypeScript**, **Tailwind CSS** 
 - 🌐 Experienced in developing **responsive**, **accessible**, and **user-friendly interfaces** that enhance user experience across devices  
 - 🔗 Strong ability to integrate third-party APIs (OpenAI, Firebase, GitHub APIs) and create innovative solutions to real-world problems  
 - 📬 Always eager to collaborate and grow. Reach out at ✉️ tinkuteja740@gmail.com | Explore my work at 🌍 [Portfolio](https://react-portfolio-eight-sable.vercel.app/)
