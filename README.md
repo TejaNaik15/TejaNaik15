@@ -13,7 +13,7 @@
 
  🧑‍💻  I'm a passionate Full Stack Developer(Mern) and Student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  🚀 Working on cool projects using MERN + Groq + GenAI </br>
- 🧪 Experimenting with AI tools, GenAI 
+ 🧪 Experimenting with AI tools, GenAI </br>
  📫 Reach me: tinkuteja740@gmail.com 
 
 
