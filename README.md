@@ -115,28 +115,13 @@
   Let's Connect!
 </h1>
 
-<table align="" class="table table-dark">
-  <tr bg-dark>
-    <td align="center" width="90">
-      <a href="https://www.linkedin.com/in/teja-naik-0b3021282" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-      </a>
-      <br>LinkedIn
-    </td>
-    <td align="center" width="90">
-      <a href="mailto:tinkuteja740.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-      </a>
-      <br>Gmail
-    </td>
-    <td align="center" width="90">
-      <a href="https://react-portfolio-eight-sable.vercel.app/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-      </a>
-      <br>Portfolio
-    </td>
-  </tr>
-</table>
+| Portfolio | Instagram | LinkedIn |
+| --------- | --------- | -------- |
+| [![Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivercel&subtitle=Portfolio&size=square)](https://react-portfolio-eight-sable.vercel.app/) | [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Feren_yeager9_%2F&subtitle=@eren_yeager9_&size=square)](https://www.instagram.com/eren_yeager9_/) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fteja-naik-0b3021282%2F&subtitle=@Teja_Naik&size=square)](https://www.linkedin.com/in/teja-naik-0b3021282/) |
+| Twitter | Gmail | GitHub |
+| ------- | ----- | ------ |
+| [![Twitter](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FTEJA_NAIKK&subtitle=@TEJA_NAIKK&size=square)](https://x.com/TEJA_NAIKK) | [![Gmail](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=tinkuteja740@gmail.com&size=square)](mailto:tinkuteja740@gmail.com) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FTejaNaik15&subtitle=TejaNaik15&size=square)](https://github.com/TejaNaik15) |
+
 
 
 
