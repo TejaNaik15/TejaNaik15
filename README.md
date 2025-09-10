@@ -9,7 +9,7 @@
 
 
 
-<h1 align="center">Hi there, I'm <a href="https://tejanaik15.github.io/personal-portfolio/">Teja Naik</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1
+<h1 align="center">Hey, I'm <a href="https://tejanaik15.github.io/personal-portfolio/">Teja</a></h1
 
 - 🧑‍💻  I'm a passionate Full Stack Developer and Student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🚀 Working on cool projects using MERN + Groq + GenAI 
