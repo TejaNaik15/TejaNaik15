@@ -16,10 +16,9 @@
 - 🌐 Specialist in **responsive design**, **accessibility**, and **modern web standards** 
 - 🔧 Experience with **TypeScript**, **Next.js**, **Tailwind CSS**, and **RESTful APIs**
 - 🤖 Integrating **AI/ML solutions** and **third-party APIs** (OpenAI, Firebase, GitHub) into web applications
-- 📊 Strong focus on **code quality**, **testing**, and **performance optimization**
 - 📬 Open to collaborations and exciting opportunities
 
-<div align="start">
+<div align="center">
   
   📧 **Contact**: [tinkuteja740@gmail.com](mailto:tinkuteja740@gmail.com) | 🌍 **Portfolio**: [tejanaik.dev](https://react-portfolio-eight-sable.vercel.app/)
   
