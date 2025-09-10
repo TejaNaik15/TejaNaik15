@@ -141,25 +141,6 @@
 
 ---
 
-
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```javascript
-const currentFocus = {
-  learning: ["AWS", "Docker", "Kubernetes", "GraphQL"],
-  building: ["AI-powered web apps", "Microservices", "Progressive Web Apps"],
-  exploring: ["WebAssembly", "Edge Computing", "Serverless Architecture"],
-  goals2024: ["Contribute to open source", "Tech blogging", "Speaking at conferences"]
-};
-```
-
-</div>
-
----
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px"/>
   Let's Connect & Collaborate!
