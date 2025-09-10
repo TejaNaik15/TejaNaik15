@@ -11,11 +11,10 @@
 
 <h1 align="center">Hey, I'm <a href="https://tejanaik15.github.io/personal-portfolio/">Teja</a></h1
 
-- 🧑‍💻  I'm a passionate Full Stack Developer and Student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🚀 Working on cool projects using MERN + Groq + GenAI 
-- 🧪 Experimenting with AI tools, GenAI UI, Prompt Engineering
--  📫 Reach me: tinkuteja740@gmail.com  
-- ✨ I love building tools that combine AI with real-world apps
+ 🧑‍💻  I'm a passionate Full Stack Developer(Mern) and Student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ 🚀 Working on cool projects using MERN + Groq + GenAI 
+ 🧪 Experimenting with AI tools, GenAI 
+ 📫 Reach me: tinkuteja740@gmail.com 
 
 
 
