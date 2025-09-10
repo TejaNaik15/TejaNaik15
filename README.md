@@ -76,7 +76,7 @@
       <br>C
      </td>
      <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=py" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
      </td>
      <td align="center" width="90">
