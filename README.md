@@ -17,13 +17,8 @@
 - 🌐 Experienced in developing **responsive**, **accessible**, and **user-friendly interfaces** that enhance user experience across devices  
 - 🔗 Strong ability to integrate third-party APIs (OpenAI, Firebase, GitHub APIs) and create innovative solutions to real-world problems  
 - 📬 Always eager to collaborate and grow. Reach out at ✉️ tinkuteja740@gmail.com | Explore my work at 🌍 [Portfolio](https://react-portfolio-eight-sable.vercel.app/)
----
-### 💡 Top Skills
 
-![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen?style=flat-square&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
+
  
 
 
