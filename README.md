@@ -1,204 +1,255 @@
-
-
-
-
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f6ff&height=100&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20React%20|%20Node.js&descAlign=50&descAlignY=60&animation=fadeIn"/>
 </p>
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Teja+%F0%9F%91%8B;Full+Stack+Developer;Building+Amazing+Web+Experiences)](https://git.io/typing-svg)
+  
+</div>
 
-
-<h1 align="center">Hey, I'm <a href="https://tejanaik15.github.io/personal-portfolio/">Teja</a></h1
 ## 🚀 About Me
 
-- 💻 Passionate Full Stack Developer skilled in building modern web applications using **React.js**, **Node.js**, **Express**, **MongoDB** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 🎯 Focused on writing clean, efficient, and scalable code while implementing best practices in **TypeScript**, **Tailwind CSS** 
-- 🌐 Experienced in developing **responsive**, **accessible**, and **user-friendly interfaces** that enhance user experience across devices  
-- 🔗 Strong ability to integrate third-party APIs (OpenAI, Firebase, GitHub APIs) and create innovative solutions to real-world problems  
-- 📬 Always eager to collaborate and grow. Reach out at ✉️ tinkuteja740@gmail.com | Explore my work at 🌍 [Portfolio](https://react-portfolio-eight-sable.vercel.app/)
+- 💻 **Full Stack Developer** with expertise in **React.js**, **Node.js**, **Express**, and **MongoDB** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🎯 Passionate about creating **scalable**, **performant**, and **user-centric** web applications
+- 🌐 Specialist in **responsive design**, **accessibility**, and **modern web standards** 
+- 🔧 Experience with **TypeScript**, **Next.js**, **Tailwind CSS**, and **RESTful APIs**
+- 🤖 Integrating **AI/ML solutions** and **third-party APIs** (OpenAI, Firebase, GitHub) into web applications
+- 📊 Strong focus on **code quality**, **testing**, and **performance optimization**
+- 🎓 Continuous learner exploring **cloud technologies** and **DevOps practices**
+- 📬 Open to collaborations and exciting opportunities
 
-
- 
-
-
+<div align="center">
+  
+  📧 **Contact**: [tinkuteja740@gmail.com](mailto:tinkuteja740@gmail.com) | 🌍 **Portfolio**: [tejanaik.dev](https://react-portfolio-eight-sable.vercel.app/)
+  
+</div>
 
 ---
-<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology </h1>
 
-<table align="center" class="table table-dark">
-  <tr bg-dark>
-   <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
-      <br>HTML
-    </td>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
-      <br>CSS
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-      <br>Javascript
-    </td>
-    <td align="center" widht="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React Js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
-      <br>Next Js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="icon" />
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
-      <br>Node Js
-    </td>
-   <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
-      <br>Express
-    </td>
-  
-  </tr>
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend Technologies
+<table>
   <tr>
-     <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
-      <br>C
-     </td>
-     <td align="center" widht=90>
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
-      <br>Bootstrap
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55" height="55" />
+      <br><strong>HTML5</strong>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
-      <br>Mongodb
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55" height="55" />
+      <br><strong>CSS3</strong>
     </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySql
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+      <br><strong>JavaScript</strong>
     </td>
-    <td align="center" widht="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
-      <br>Github
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+      <br><strong>TypeScript</strong>
     </td>
-    <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="55" height="55" />
-      <br>Vercel
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+      <br><strong>React</strong>
     </td>
-    <td align="center" width="90">
-      <img src="https://reactrouter.com/img/logos/react-router.svg" width="55" height="55" alt="linux" />
-      <br>Vite
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="55" height="55" />
+      <br><strong>Next.js</strong>
     </td>
-   
   </tr>
 </table>
 
+### Backend & Database
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="55" height="55" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="55" height="55" />
+      <br><strong>Express</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="55" height="55" />
+      <br><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="55" height="55" />
+      <br><strong>Firebase</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="55" height="55" />
+      <br><strong>Python</strong>
+    </td>
+  </tr>
+</table>
+
+### Tools & Platforms
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" />
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="55" height="55" />
+      <br><strong>Vite</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="55" height="55" />
+      <br><strong>Vercel</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="55" height="55" />
+      <br><strong>Tailwind</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-<h1>
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">
-  Let's Connect!
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejaNaik15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejaNaik15&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| 🚀 **Project Alpha** | Full-stack e-commerce platform with AI recommendations | React, Node.js, MongoDB | [View Live](https://github.com/TejaNaik15) |
+| 💡 **Project Beta** | Real-time collaboration tool with WebSocket integration | Next.js, TypeScript, Socket.io | [View Live](https://github.com/TejaNaik15) |
+| 🎨 **Project Gamma** | Portfolio management dashboard with analytics | React, Firebase, Chart.js | [View Live](https://github.com/TejaNaik15) |
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```javascript
+const currentFocus = {
+  learning: ["AWS", "Docker", "Kubernetes", "GraphQL"],
+  building: ["AI-powered web apps", "Microservices", "Progressive Web Apps"],
+  exploring: ["WebAssembly", "Edge Computing", "Serverless Architecture"],
+  goals2024: ["Contribute to open source", "Tech blogging", "Speaking at conferences"]
+};
+```
+
+</div>
+
+---
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px"/>
+  Let's Connect & Collaborate!
 </h1>
+
+<div align="center">
 
 | Portfolio | Instagram | LinkedIn |
 | --------- | --------- | -------- |
 | [![Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivercel&subtitle=Portfolio&size=square)](https://react-portfolio-eight-sable.vercel.app/) | [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Feren_yeager9_%2F&subtitle=@eren_yeager9_&size=square)](https://www.instagram.com/eren_yeager9_/) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fteja-naik-0b3021282%2F&subtitle=@Teja_Naik&size=square)](https://www.linkedin.com/in/teja-naik-0b3021282/) |
-| Twitter | Gmail | GitHub |
-| ------- | ----- | ------ |
+| **Twitter** | **Gmail** | **GitHub** |
 | [![Twitter](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FTEJA_NAIKK&subtitle=@TEJA_NAIKK&size=square)](https://x.com/TEJA_NAIKK) | [![Gmail](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=tinkuteja740@gmail.com&size=square)](mailto:tinkuteja740@gmail.com) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FTejaNaik15&subtitle=TejaNaik15&size=square)](https://github.com/TejaNaik15) |
 
-
-
-
-
-
-
-
+</div>
 
 ---
-## 🎧 I am vibing to ...
+
+## 🎧 Currently Vibing To
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yiaf2fzhgezc1sc5384i1u364&count=3&width=400"/>
+</div>
+
+---
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🏃‍♂️ Fun Facts & Hobbies
+
+<div align="center">
+
+- 🎮 Gaming enthusiast and indie game developer in free time
+- 📚 Tech blogger writing about web development trends
+- 🏋️‍♂️ Fitness enthusiast who codes better after a good workout
+- ☕ Coffee connoisseur - fuel for those late-night coding sessions
+- 🎵 Music lover who believes good code needs good beats
+
+</div>
+
+---
+
 <div align="center">
   
-  <img src ="https://spotify-recently-played-readme.vercel.app/api?user=yiaf2fzhgezc1sc5384i1u364&count=2"/>
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**Thanks for visiting my profile!** 
+
+If you find my work interesting, consider:
+- ⭐ **Starring** my repositories
+- 🤝 **Following** me for updates
+- 💬 **Reaching out** for collaboration opportunities
+
 </div>
-<br>
 
-
-
-
-
-
-
-
-
----
-
-<p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
-</p>
-
-<p align="center">
-  <a href="" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="160"/>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/tejanaik" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="180" height="50"/>
   </a>
-</p>
+</div>
 
-
-
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f6ff&height=120&section=footer" /> </p>
 ---
 
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=TejaNaik15&color=brightgreen&style=flat-square)
+  ![GitHub followers](https://img.shields.io/github/followers/TejaNaik15?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/TejaNaik15?style=social)
+  
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn"/>
+</p>
