@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Teja+%F0%9F%91%8B;Full+Stack+Developer;Building+Amazing+Web+Experiences)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Teja+%F0%9F%91%8B;Full+Stack+Developer;)](https://git.io/typing-svg)
   
 </div>
 
@@ -142,19 +142,7 @@
 
 ---
 
-## 🏆 Featured Projects
 
-<div align="center">
-
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| 🚀 **Project Alpha** | Full-stack e-commerce platform with AI recommendations | React, Node.js, MongoDB | [View Live](https://github.com/TejaNaik15) |
-| 💡 **Project Beta** | Real-time collaboration tool with WebSocket integration | Next.js, TypeScript, Socket.io | [View Live](https://github.com/TejaNaik15) |
-| 🎨 **Project Gamma** | Portfolio management dashboard with analytics | React, Firebase, Chart.js | [View Live](https://github.com/TejaNaik15) |
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
@@ -198,31 +186,13 @@ const currentFocus = {
 
 ---
 
-## 💭 Dev Quote of the Day
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
----
 
-## 🏃‍♂️ Fun Facts & Hobbies
-
-<div align="center">
-
-- 🎮 Gaming enthusiast and indie game developer in free time
-- 📚 Tech blogger writing about web development trends
-- 🏋️‍♂️ Fitness enthusiast who codes better after a good workout
-- ☕ Coffee connoisseur - fuel for those late-night coding sessions
-- 🎵 Music lover who believes good code needs good beats
-
-</div>
-
----
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
 
 **Thanks for visiting my profile!** 
 
