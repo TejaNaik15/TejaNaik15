@@ -203,7 +203,7 @@ If you find my work interesting, consider:
 </div>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/tejanaik" target="_blank">
+  <a href="https://buymeacoffee.com/tejanaik15" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="180" height="50"/>
   </a>
 </div>
