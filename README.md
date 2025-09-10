@@ -45,11 +45,11 @@
       <br>CSS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
       <br>Javascript
     </td>
     <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React Js
     </td>
     <td align="center" width="90">
@@ -57,7 +57,7 @@
       <br>Next Js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="55" height="55" alt="icon" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="icon" />
       <br>Typescript
     </td>
     <td align="center" width="90">
@@ -92,7 +92,7 @@
       <br>Git
     </td>
     <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
       <br>Github
     </td>
     <td align="center" widht=90>
