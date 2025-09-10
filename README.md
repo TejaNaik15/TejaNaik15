@@ -154,7 +154,7 @@
       <br>Gmail
     </td>
     <td align="center" width="90">
-      <a href="https://tejanaik15.github.io/personal-portfolio/" target="_blank">
+      <a href="https://react-portfolio-eight-sable.vercel.app/" target="_blank">
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
       </a>
       <br>Portfolio
