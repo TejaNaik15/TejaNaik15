@@ -12,7 +12,7 @@
 <h1 align="center">Hey, I'm <a href="https://tejanaik15.github.io/personal-portfolio/">Teja</a></h1
 
  🧑‍💻  I'm a passionate Full Stack Developer(Mern) and Student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- 🚀 Working on cool projects using MERN + Groq + GenAI 
+ 🚀 Working on cool projects using MERN + Groq + GenAI </br>
  🧪 Experimenting with AI tools, GenAI 
  📫 Reach me: tinkuteja740@gmail.com 
 
