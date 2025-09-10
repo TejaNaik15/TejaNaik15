@@ -17,10 +17,9 @@
 - 🔧 Experience with **TypeScript**, **Next.js**, **Tailwind CSS**, and **RESTful APIs**
 - 🤖 Integrating **AI/ML solutions** and **third-party APIs** (OpenAI, Firebase, GitHub) into web applications
 - 📊 Strong focus on **code quality**, **testing**, and **performance optimization**
-- 🎓 Continuous learner exploring **cloud technologies** and **DevOps practices**
 - 📬 Open to collaborations and exciting opportunities
 
-<div align="center">
+<div align="start">
   
   📧 **Contact**: [tinkuteja740@gmail.com](mailto:tinkuteja740@gmail.com) | 🌍 **Portfolio**: [tejanaik.dev](https://react-portfolio-eight-sable.vercel.app/)
   
