@@ -179,48 +179,6 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f6ff&height=120&section=footer" /> </p>
 ---
 
-<h1>
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">
-  Let's Connect!
-</h1>
-
-<table align="" class="table table-dark">
-  <tr bg-dark>
-    <td align="center" width="90">
-      <a href="https://www.linkedin.com/in/teja-naik-0b3021282" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-      </a>
-      <br>LinkedIn
-    </td>
-    <td align="center" width="90">
-      <a href="mailto:tinkuteja740.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-      </a>
-      <br>Gmail
-    </td>
-    <td align="center" width="90">
-      <a href="https://tejanaik15.github.io/personal-portfolio/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-      </a>
-      <br>Portfolio
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
----
-## 🎧 I am vibing to ...
-<div align="center">
-  
-  <img src ="https://spotify-recently-played-readme.vercel.app/api?user=yiaf2fzhgezc1sc5384i1u364&count=2"/>
-</div>
-<br>
 
 
 
@@ -230,22 +188,23 @@
 
 
 
----
-
-<p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
-</p>
-
-<p align="center">
-  <a href="" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="160"/>
-  </a>
-</p>
 
 
 
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f6ff&height=120&section=footer" /> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
