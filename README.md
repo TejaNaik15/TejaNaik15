@@ -112,24 +112,24 @@
   </tr>
   <tr>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
-      <br>Vercel
+      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
-      <br>Vite
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <br>Bootstrap
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
       <br>C
     </td>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
-      <br>TensorFlow
+      <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
+      <br>C++
     </td>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=keras" width="65" height="65" alt="Keras" />
-      <br>Keras
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
+      <br>TensorFlow
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=ai" width="65" height="65" alt="AI/ML" />
@@ -137,7 +137,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Analytics
