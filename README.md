@@ -139,21 +139,21 @@
 </table>
 ---
 
-## 📊 GitHub Analytics
+### ⏲️ **My Streak**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TejaNaik15&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejaNaik15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&layout=compact&langs_count=8&theme=tokyonight"/>
+### 🔥 **My Stats**
+[![TejaNaik15's GitHub stats](https://readmestats.999857.xyz/api?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&border_radius=2)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.26&count_weight=0.26)](https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.3&count_weight=0.26)
+
+<div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=github-compact&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="TejaNaik15's contribution graph" />
+    </picture>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejaNaik15&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=tokyo-night&hide_border=true" />
-</div>
-
 ---
 
 <h1 align="center">
