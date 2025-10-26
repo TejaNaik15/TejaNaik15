@@ -139,10 +139,10 @@
 </table>
 ---
 
-### ⏲️ **My Streak**
+## 📊 GitHub Stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TejaNaik15&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
 
-### 🔥 **My Stats**
 [![TejaNaik15's GitHub stats](https://readmestats.999857.xyz/api?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&border_radius=2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.26&count_weight=0.26)](https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.3&count_weight=0.26)
