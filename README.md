@@ -1,11 +1,11 @@
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20React%20|%20Node.js&descAlign=50&descAlignY=60&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20React%20|%20Node.js&descAlign=50&descAlignY=60&animation=fadeIn"/>
 </p>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Teja+%F0%9F%91%8B;Full+Stack+Developer;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Teja+%F0%9F%91%8B;Full+Stack+Developer;)](https://git.io/typing-svg)
   
 </div>
 
@@ -137,6 +137,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats
@@ -149,11 +150,12 @@
 
 <div>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=github-compact&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="TejaNaik15's contribution graph" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" alt="TejaNaik15's contribution graph" />
     </picture>
 </div>
+
 ---
 
 <h1 align="center">
@@ -181,14 +183,8 @@
 
 ---
 
-
-
-
-
 <div align="center">
   
-
-
 **Thanks for visiting my profile!** 
 
 If you find my work interesting, consider:
@@ -200,7 +196,7 @@ If you find my work interesting, consider:
 
 <div align="center">
   <a href="https://buymeacoffee.com/tejanaik15" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="180" height="50"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" height="50"/>
   </a>
 </div>
 
@@ -208,12 +204,12 @@ If you find my work interesting, consider:
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=TejaNaik15&color=brightgreen&style=flat-square)
-  ![GitHub followers](https://img.shields.io/github/followers/TejaNaik15?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/TejaNaik15?style=social)
+  ![Profile Views](https://komarev.com/ghpvc/?username=TejaNaik15&color=7FD957&style=flat-square)
+  ![GitHub followers](https://img.shields.io/github/followers/TejaNaik15?style=flat-square&color=7FD957&labelColor=0d1117)
+  ![GitHub stars](https://img.shields.io/github/stars/TejaNaik15?style=flat-square&color=7FD957&labelColor=0d1117)
   
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer&animation=fadeIn"/>
 </p>
