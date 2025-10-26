@@ -162,16 +162,19 @@
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px"/>
   Let's Connect & Collaborate!
 </h1>
-
-<div align="center">
-
-| Portfolio | Instagram | LinkedIn |
-| --------- | --------- | -------- |
-| [![Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivercel&subtitle=Portfolio&size=square)](https://react-portfolio-eight-sable.vercel.app/) | [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Feren_yeager9_%2F&subtitle=@eren_yeager9_&size=square)](https://www.instagram.com/eren_yeager9_/) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fteja-naik-0b3021282%2F&subtitle=@Teja_Naik&size=square)](https://www.linkedin.com/in/teja-naik-0b3021282/) |
-| **Twitter** | **Gmail** | **GitHub** |
-| [![Twitter](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FTEJA_NAIKK&subtitle=@TEJA_NAIKK&size=square)](https://x.com/TEJA_NAIKK) | [![Gmail](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=tinkuteja740@gmail.com&size=square)](mailto:tinkuteja740@gmail.com) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FTejaNaik15&subtitle=TejaNaik15&size=square)](https://github.com/TejaNaik15) |
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/teja-naik-0b3021282/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Teja%20Naik-0A66C2?logo=linkedin&logoColor=white"></a>
+  &nbsp;
+  <a href="https://www.instagram.com/eren_yeager9_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@eren__yeager9__-E4405F?logo=instagram&logoColor=white"></a>
+  &nbsp;
+  <a href="https://react-portfolio-eight-sable.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-tejanaik.dev-111111?logo=google-chrome&logoColor=white"></a>
+  &nbsp;
+  <a href="mailto:tinkuteja740@gmail.com"><img src="https://img.shields.io/badge/Email-tinkuteja740@gmail.com-333333?logo=gmail&logoColor=white"></a>
+  &nbsp;
+  <a href="https://x.com/TEJA_NAIKK" target="_blank"><img src="https://img.shields.io/badge/Twitter-@TEJA__NAIKK-1DA1F2?logo=x&logoColor=white"></a>
+  &nbsp;
+  <a href="https://github.com/TejaNaik15" target="_blank"><img src="https://img.shields.io/badge/GitHub-TejaNaik15-181717?logo=github&logoColor=white"></a>
+</p>
 
 ---
 
