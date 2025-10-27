@@ -167,13 +167,13 @@
   &nbsp;
   <a href="https://www.instagram.com/eren_yeager9_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@eren__yeager9__-E4405F?logo=instagram&logoColor=white"></a>
   &nbsp;
-  <a href="https://react-portfolio-eight-sable.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-tejanaik.dev-111111?logo=google-chrome&logoColor=white"></a>
+  
   &nbsp;
   <a href="mailto:tinkuteja740@gmail.com"><img src="https://img.shields.io/badge/Email-tinkuteja740@gmail.com-333333?logo=gmail&logoColor=white"></a>
   &nbsp;
   <a href="https://x.com/TEJA_NAIKK" target="_blank"><img src="https://img.shields.io/badge/Twitter-@TEJA__NAIKK-1DA1F2?logo=x&logoColor=white"></a>
   &nbsp;
-  <a href="https://github.com/TejaNaik15" target="_blank"><img src="https://img.shields.io/badge/GitHub-TejaNaik15-181717?logo=github&logoColor=white"></a>
+ 
 </p>
 
 ---
