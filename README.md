@@ -20,7 +20,7 @@
 
 <div align="center">
   
-  📧 **Contact**: [tinkuteja740@gmail.com](mailto:tinkuteja740@gmail.com) | 🌍 **Portfolio**: [tejanaik.dev](https://react-portfolio-eight-sable.vercel.app/)
+  📧 **Contact**: [tinkuteja740@gmail.com](mailto:tinkuteja740@gmail.com) | 🌍 **Portfolio**: [tejanaik.dev](teja-portfolio-yrei.vercel.app/)
   
 </div>
 
